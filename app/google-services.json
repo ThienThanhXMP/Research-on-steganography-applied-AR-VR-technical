@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411880221008",
+    "firebase_url": "https://arcore-datahinding-thesis.firebaseio.com",
+    "project_id": "arcore-datahinding-thesis",
+    "storage_bucket": "arcore-datahinding-thesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411880221008:android:c242b86dc1ed20abe4a455",
+        "android_client_info": {
+          "package_name": "com.thanhthienxmp.arcore_datahiding_thesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411880221008-rlrr689k9a54h3gsrc1pd5md8ta35ife.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thanhthienxmp.arcore_datahiding_thesis",
+            "certificate_hash": "d3476d93a0286294ba98a74dd460d82be7ce47e2"
+          }
+        },
+        {
+          "client_id": "411880221008-ggokmv9mt2csjnj1cibi45iuqjnnq6pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr4OwQje-pjqDLOTnod7pkWwapbwCa49g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411880221008-ggokmv9mt2csjnj1cibi45iuqjnnq6pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
